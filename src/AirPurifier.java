@@ -95,7 +95,6 @@ public class AirPurifier {
     }
 
     public void status(){
-        //return " //Model-->" + model + " //SerialNo-->" + serialNo + " //Power-->" + power + " //Speed-->" + speed + " //FilterLife-->" + filter_life + " %" ;
         System.out.println("Air PurifierModel: " + model);
         System.out.println("Serial No: " + serialNo);
         System.out.println("Power: " + power);
